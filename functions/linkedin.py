@@ -56,8 +56,7 @@ def jobs_page_popup(body):
 
 def linkedin_job_alerts():
     """
-    return: (<selenium.webdriver.remote.webelement.WebElement>, 
-        <selenium.webdriver.firefox.webdriver.WebDriver>)
+    return: <selenium.webdriver.remote.webelement.WebElement>
 
     This function logs in to linkedin taking the login credentials from the file at
         /login/linkedin_login.json
