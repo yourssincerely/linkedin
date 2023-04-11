@@ -2,16 +2,20 @@
 
 ## Description
 
-Looking for a job can be a daunting task, especially when you have to sift through hundreds of job postings to find the right match. That's why I've created a Python script that automates this process for you, making it easier to find the perfect job.
+Looking for a job can be a daunting task, especially when you have to sift through hundreds of job postings to find the right match.
 
-The script scrapes job postings from LinkedIn, classifies them according to your job search criteria using natural language processing, and then splits the job postings into two categories: 
+While LinkedIn offers integrated search functionalities, the effectiveness of its keyword search and experience level filters can be insufficient.
+
+That's why I've created a Python script that automates this process for you, making it easier to find the perfect job.
+
+The script scrapes job postings from my LinkedIn job alerts, classifies them according to my job search criteria using natural language processing, and then splits the job postings into two categories: 
 
 * jobs you're a good match for 
 * jobs that are not a good fit 
 
-The good matches are saved in a separate database, making it easy to keep track of your potential job opportunities.
+The good matches are saved in a separate database, making it easy to keep track of my potential job opportunities.
 
-The script is designed to save you time and energy, so you can focus on what matters most: finding the right job for you. Give it a try and see how it can help streamline your job search!
+The script is designed to save time and energy, so I can focus on what matters most: finding the right job for me. Give it a try and see how it can help streamline your job search!
 
 ## How does it work?
 
